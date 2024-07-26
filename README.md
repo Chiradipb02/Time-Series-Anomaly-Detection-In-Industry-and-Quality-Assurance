@@ -21,7 +21,7 @@ We explored the following datasets for our experiments:
 
 5. **Large-scale Energy Anomaly Detection (LEAD)**
    - Description: A comprehensive dataset for large-scale anomaly detection in energy systems, including various sensors and measurements from energy grids.
-   - 
+   
 **In this repository we have provided :---------------**
 
 **1.** Notebooks used by us
