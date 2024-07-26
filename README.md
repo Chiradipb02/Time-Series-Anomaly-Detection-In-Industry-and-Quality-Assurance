@@ -5,6 +5,23 @@ The project is done under the guidance of Professor Ye Zhu, Senior Lecturer of C
 
 We used the models TadGAN (Time Series Anomaly Detection) and AER (Auto Encoder with Regression) for this task. Both the models are from ["Orion Library" of Data to AI Lab, of MIT](https://github.com/sintel-dev/Orion). In the project, at first we reproduced the model results on the datasets given in research papers, then we benchmarked them on various labelled energy sector datasets and also did extensive Hyper-parameter Sensitivity analysis.
 
+We explored the following datasets for our experiments:
+
+1. **NASA Space Telemetry Dataset**
+   - Description: A dataset consisting of telemetry data from NASA's spacecraft, useful for anomaly detection and predictive maintenance.
+
+2. **SCADA 2015 Wind Turbine Dataset**
+   - Description: Data collected from wind turbines, including measurements of temperature, power output, and other variables, aimed at detecting anomalies and predicting failures.
+
+3. **Power Laws: Anomaly Detection Dataset**
+   - Description: A dataset designed for evaluating anomaly detection algorithms, featuring data with known power-law distributions.
+
+4. **Machine Temperature Failure Dataset**
+   - Description: Contains temperature measurements from industrial machines, used to study machine failures and predict potential breakdowns.
+
+5. **Large-scale Energy Anomaly Detection (LEAD)**
+   - Description: A comprehensive dataset for large-scale anomaly detection in energy systems, including various sensors and measurements from energy grids.
+   - 
 **In this repository we have provided :---------------**
 
 **1.** Notebooks used by us
