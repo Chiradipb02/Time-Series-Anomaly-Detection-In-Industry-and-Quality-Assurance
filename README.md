@@ -1,7 +1,7 @@
 # Time-Series-Anomaly-Detection-In-Industry-and-Quality-Assurance
 This Time Series Anomaly detection project mainly focuses on Energy sector datasets. 
 
-The project is done under the guidance of Professor Ye Zhu, Senior Lecturer of Computer Science - School of Information Technology, Deakin University.
+The project is done under the guidance of Professor Ye Zhu, Senior Lecturer of Computer Science - School of Information Technology, Deakin University, Australia.
 
 We used the models TadGAN (Time Series Anomaly Detection) and AER (Auto Encoder with Regression) for this task. Both the models are from ["Orion Library" of Data to AI Lab, of MIT](https://github.com/sintel-dev/Orion). In the project, at first we reproduced the model results on the datasets given in research papers, then we benchmarked them on various labelled energy sector datasets and also did Hyper-parameter Sensitivity analysis.
 
