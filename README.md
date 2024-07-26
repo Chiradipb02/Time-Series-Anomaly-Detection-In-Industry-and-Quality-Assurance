@@ -8,19 +8,19 @@ We used the models TadGAN (Time Series Anomaly Detection) and AER (Auto Encoder 
 We explored the following datasets for our experiments:
 
 1. **NASA Space Telemetry Dataset**
-   - Description: A dataset consisting of telemetry data from NASA's spacecraft, useful for anomaly detection and predictive maintenance.
+   - A dataset consisting of telemetry data from NASA's spacecraft, useful for anomaly detection and predictive maintenance.
 
 2. **SCADA 2015 Wind Turbine Dataset**
-   - Description: Data collected from wind turbines, including measurements of temperature, power output, and other variables, aimed at detecting anomalies and predicting failures.
+   - Data collected from wind turbines, including measurements of temperature, power output, and other variables, aimed at detecting anomalies and predicting failures.
 
 3. **Power Laws: Anomaly Detection Dataset**
-   - Description: A dataset designed for evaluating anomaly detection algorithms, featuring data with known power-law distributions.
+   - A dataset designed for evaluating anomaly detection algorithms, featuring data with known power-law distributions.
 
 4. **Machine Temperature Failure Dataset**
-   - Description: Contains temperature measurements from industrial machines, used to study machine failures and predict potential breakdowns.
+   - Contains temperature measurements from industrial machines, used to study machine failures and predict potential breakdowns.
 
 5. **Large-scale Energy Anomaly Detection (LEAD)**
-   - Description: A comprehensive dataset for large-scale anomaly detection in energy systems, including various sensors and measurements from energy grids.
+   - A comprehensive dataset for large-scale anomaly detection in energy systems, including various sensors and measurements from energy grids.
    
 **In this repository we have provided :---------------**
 
