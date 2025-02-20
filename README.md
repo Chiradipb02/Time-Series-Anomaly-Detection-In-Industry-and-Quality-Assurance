@@ -9,18 +9,25 @@ We explored the following datasets for our experiments:
 
 1. **NASA Space Telemetry Dataset**
    - A dataset consisting of telemetry data from NASA's spacecraft, useful for anomaly detection and predictive maintenance.
+   - Dataset: Directly available in orion library. Can see their repo and notebook for usage.
 
 2. **SCADA 2015 Wind Turbine Dataset**
    - Data collected from wind turbines, including measurements of temperature, power output, and other variables, aimed at detecting anomalies and predicting failures.
+   - Dataset: https://github.com/lkev/wtphm/blob/master/examples/scada_data.csv
 
 3. **Power Laws: Anomaly Detection Dataset**
    - A dataset designed for evaluating anomaly detection algorithms, featuring data with known power-law distributions.
+   - Dataset: https://github.com/drivendataorg/power-laws-anomalies
+   - (available in schneider electric website, create account to get). Did not evaluate the model on it, as we did not know true labels other than visual information, so just visually tested.
 
 4. **Machine Temperature Failure Dataset**
    - Contains temperature measurements from industrial machines, used to study machine failures and predict potential breakdowns.
+   - Dataset: https://github.com/numenta/NAB/blob/master/data/realKnownCause/machine_temperature_system_failure.csv
 
 5. **Large-scale Energy Anomaly Detection (LEAD)**
    - A comprehensive dataset for large-scale anomaly detection in energy systems, including various sensors and measurements from energy grids.
+   - https://github.com/samy101/lead-dataset/tree/main/data
+   - [did analysis on 2 buildings and also not on the whole dataset, rather on a particular chunk of it]
    
 **In this repository we have provided :---------------**
 
